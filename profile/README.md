@@ -1,6 +1,6 @@
 # Hariyo Teach
 
-<img src="https://github.com/Hariyo-Tech/Hariyo-Teach/blob/main/back.jpg">
+<img src="https://github.com/sandipbhandari07/.github-1/blob/main/back.jpg">
 
 
 ## Who are we?
