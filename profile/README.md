@@ -1,5 +1,4 @@
-# Hariyo Teach
-
+# <center><h1>Hariyo Teach</h1></center>
 <img src="https://github.com/sandipbhandari07/.github-1/blob/main/back.jpg">
 
 
